@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271446443741",
+    "project_id": "geniussearchonboardingform",
+    "storage_bucket": "geniussearchonboardingform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271446443741:android:a852cec05d656fb1323d34",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_form"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB5N2WD2OJsoAvcvpFGpOYy7Q7YIpdThk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
