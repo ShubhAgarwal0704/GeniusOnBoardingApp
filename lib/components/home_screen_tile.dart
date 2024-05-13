@@ -33,17 +33,17 @@ class AboutUsTile extends StatelessWidget {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10),
                   border: Border.all(
-                    color: Colors.white.withOpacity(1),
+                    color: Colors.purple.withOpacity(1),
                     width: 1,
                   ),
                   gradient: LinearGradient(
                     begin: Alignment.topLeft,
                     end: Alignment.bottomRight,
                     colors: [
-                      Colors.white.withOpacity(0.2),
-                      Colors.white.withOpacity(0.4),
-                      Colors.white.withOpacity(0.5),
-                      Colors.white.withOpacity(0.6),
+                      Colors.purple.withOpacity(0.1),
+                      Colors.purple.withOpacity(0.2),
+                      Colors.purple.withOpacity(0.3),
+                      Colors.purple.withOpacity(0.4),
                     ],
                   ),
                 ),

@@ -35,7 +35,8 @@ class _SuccessfulScreenState extends State<SuccessfulScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromRGBO(7, 150, 253, 1.0),
+      backgroundColor: Colors.black,
+
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -80,7 +81,7 @@ class _SuccessfulScreenState extends State<SuccessfulScreen>
                     Navigator.pushNamed(context, '/home');
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.black,
+                    backgroundColor: Colors.purple.shade800,
                     padding: const EdgeInsets.all(15),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(10),
